@@ -1,0 +1,2 @@
+# ForJS
+for JS class
